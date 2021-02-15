@@ -1,4 +1,4 @@
-# ML_Projects
+# ML Projects
 
 Project Name
   - KNNClassifer from Scratch using numpy
